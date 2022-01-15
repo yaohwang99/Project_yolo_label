@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(20): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(22): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(36): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(37): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\bbox.h(39): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myimage.h(50): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myimage.h(51): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myimage.h(52): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myimage.h(53): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myform.h(246): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myform.h(247): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myform.h(356): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\nckuwork\1092同步\1101\oop\project1\project1\myform.h(357): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> D:\nckuWork\1092同步\1101\OOP\Project1\Release\Project1.exe
